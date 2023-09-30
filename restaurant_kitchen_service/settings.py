@@ -26,7 +26,9 @@ SECRET_KEY = "django-insecure-s15$qs(3-2!1=yj&r&(686qmz0plg5m8h&27y3d^1drby&vwfa
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+INTERNAL_IPS = [
+    "127.0.0.1",
+]
 
 # Application definition
 
@@ -37,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "restaurant"
 ]
 
 MIDDLEWARE = [
@@ -100,7 +103,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
+AUTH_USER_MODEL = "restaurant.Cook"
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
 
