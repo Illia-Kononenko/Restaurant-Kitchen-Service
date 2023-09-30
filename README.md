@@ -1,1 +1,1 @@
-"# Simple restaurant kitchen service" 
+# Simple restaurant kitchen service
