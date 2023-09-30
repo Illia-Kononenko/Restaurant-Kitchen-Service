@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     "crispy_bootstrap4",
     "bootstrap4",
     "restaurant",
+    'django_extensions'
 ]
 
 MIDDLEWARE = [
