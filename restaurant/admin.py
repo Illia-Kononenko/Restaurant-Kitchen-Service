@@ -1,11 +1,7 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 
-from restaurant.models import (
-    Dish,
-    DishType,
-    Cook
-)
+from restaurant.models import Dish, DishType, Cook
 
 
 @admin.register(Cook)

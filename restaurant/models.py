@@ -19,13 +19,10 @@ class Dish(models.Model):
     description = models.TextField()
     price = models.DecimalField(max_digits=6, decimal_places=2)
     dish_type = models.ForeignKey(
-        to=DishType,
-        related_name="dishes",
-        on_delete=models.CASCADE
+        to=DishType, related_name="dishes", on_delete=models.CASCADE
     )
     cooks = models.ManyToManyField(
-        to=settings.AUTH_USER_MODEL,
-        related_name="dishes"
+        to=settings.AUTH_USER_MODEL, related_name="dishes"
     )
 
     class Meta:
