@@ -1,14 +1,16 @@
+import os
 from pathlib import Path
+import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = (
-    "django-insecure---$ivo=#p-b_vnvab4q3$p^#oxbb3(f7z8+k%v%1(r3dwa7"
-)
+SECRET_KEY = os.environ["SECRET_KEY"]
+DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-DEBUG = True
-
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [
+    "127.0.0.1",
+    "restaurant-kitchen-service-illia.onrender.com",
+]
 
 INTERNAL_IPS = [
     "127.0.0.1",
@@ -70,7 +72,8 @@ DATABASES = {
         "NAME": BASE_DIR / "db.sqlite3",
     }
 }
-
+db_from_env = dj_database_url.config(conn_max_age=500)
+DATABASES["default"].update(db_from_env)
 AUTH_PASSWORD_VALIDATORS = [
     {
         "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
@@ -92,16 +95,16 @@ LOGIN_REDIRECT_URL = "/"
 
 LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = "UTC"
+TIME_ZONE = "Europe/Kiev"
 
 USE_I18N = True
 
 USE_TZ = True
 
-STATIC_URL = "/static/"
+STATIC_URL = "static/"
 
 STATICFILES_DIRS = (BASE_DIR / "static",)
 
-STATIC_ROOT = BASE_DIR / "staticfiles"
+STATIC_ROOT = BASE_DIR / "staticfiles/"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
