@@ -20,11 +20,11 @@
   <!-- Add additional CSS in static file -->
 
   <link rel="stylesheet" href="{% static 'css/styles.css' %}">
-  <link rel="stylesheet" href="{% static "/images/403+404/background.jpg" %}">
+  <link rel="stylesheet" href="{% static "/images/403+404/../static/images/background.jpg" %}">
 </head>
 
 {#<body>#}
-<body style="background-image: url({% static "/images/403+404/background.jpg" %}); height: 100vh;
+<body style="background-image: url({% static "/images/403+404/../static/images/background.jpg" %}); height: 100vh;
   !important;">
 <div class="sticky-top">
   {% block header %}
