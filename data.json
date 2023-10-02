@@ -1,1 +1,1342 @@
-[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2023-07-20T17:45:28.148Z", "user": 1, "content_type": 6, "object_id": "36", "object_repr": "kevin.riley (Kevin Riley)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 2, "fields": {"action_time": "2023-07-20T17:45:28.153Z", "user": 1, "content_type": 6, "object_id": "31", "object_repr": "lucas.ortega (Lucas Ortega)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 3, "fields": {"action_time": "2023-07-20T17:45:28.157Z", "user": 1, "content_type": 6, "object_id": "14", "object_repr": "melanie.sanders (Melanie Sanders)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 4, "fields": {"action_time": "2023-07-20T17:45:28.161Z", "user": 1, "content_type": 6, "object_id": "15", "object_repr": "michelle.simpson (Michelle Simpson)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 5, "fields": {"action_time": "2023-07-20T17:45:28.165Z", "user": 1, "content_type": 6, "object_id": "38", "object_repr": "miguel.johnson (Miguel Johnson)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 6, "fields": {"action_time": "2023-07-20T17:45:28.170Z", "user": 1, "content_type": 6, "object_id": "29", "object_repr": "nathan.robinson (Nathan Robinson)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 7, "fields": {"action_time": "2023-07-20T17:45:28.174Z", "user": 1, "content_type": 6, "object_id": "35", "object_repr": "nicole.parker (Nicole Parker)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 8, "fields": {"action_time": "2023-07-20T17:45:28.178Z", "user": 1, "content_type": 6, "object_id": "9", "object_repr": "olivia.rivers (Olivia Rivers)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 9, "fields": {"action_time": "2023-07-20T17:45:28.182Z", "user": 1, "content_type": 6, "object_id": "10", "object_repr": "paige.nelson (Paige Nelson)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 10, "fields": {"action_time": "2023-07-20T17:45:28.186Z", "user": 1, "content_type": 6, "object_id": "25", "object_repr": "paul.wilson (Paul Wilson)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 11, "fields": {"action_time": "2023-07-20T17:45:28.190Z", "user": 1, "content_type": 6, "object_id": "17", "object_repr": "phillip.rivera (Phillip Rivera)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 12, "fields": {"action_time": "2023-07-20T17:45:28.194Z", "user": 1, "content_type": 6, "object_id": "39", "object_repr": "robin.tanner (Robin Tanner)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 13, "fields": {"action_time": "2023-07-20T17:45:28.198Z", "user": 1, "content_type": 6, "object_id": "11", "object_repr": "steven.brown (Steven Brown)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 14, "fields": {"action_time": "2023-07-20T17:45:28.202Z", "user": 1, "content_type": 6, "object_id": "24", "object_repr": "terri.fisher (Terri Fisher)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 15, "fields": {"action_time": "2023-07-20T17:45:28.206Z", "user": 1, "content_type": 6, "object_id": "28", "object_repr": "terry.knapp (Terry Knapp)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 16, "fields": {"action_time": "2023-07-20T17:45:28.210Z", "user": 1, "content_type": 6, "object_id": "27", "object_repr": "tiffany.graham (Tiffany Graham)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 17, "fields": {"action_time": "2023-07-20T17:45:28.214Z", "user": 1, "content_type": 6, "object_id": "4", "object_repr": "tommy.santiago (Tommy Santiago)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 18, "fields": {"action_time": "2023-07-20T17:45:28.218Z", "user": 1, "content_type": 6, "object_id": "33", "object_repr": "willie.holland (Willie Holland)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 19, "fields": {"action_time": "2023-07-20T17:45:28.226Z", "user": 1, "content_type": 6, "object_id": "19", "object_repr": "zachary.gonzalez (Zachary Gonzalez)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 20, "fields": {"action_time": "2023-07-20T17:45:28.230Z", "user": 1, "content_type": 6, "object_id": "32", "object_repr": "zachary.love (Zachary Love)", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 21, "fields": {"action_time": "2023-07-20T17:48:31.624Z", "user": 1, "content_type": 7, "object_id": "1", "object_repr": "Main Courses", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 22, "fields": {"action_time": "2023-07-20T17:48:50.702Z", "user": 1, "content_type": 7, "object_id": "2", "object_repr": "Salads", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 23, "fields": {"action_time": "2023-07-20T17:48:59.628Z", "user": 1, "content_type": 7, "object_id": "3", "object_repr": "Appetizers", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 24, "fields": {"action_time": "2023-07-20T17:49:05.513Z", "user": 1, "content_type": 7, "object_id": "4", "object_repr": "Soups", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 25, "fields": {"action_time": "2023-07-20T17:49:10.600Z", "user": 1, "content_type": 7, "object_id": "5", "object_repr": "Pasta", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 26, "fields": {"action_time": "2023-07-20T17:49:14.375Z", "user": 1, "content_type": 7, "object_id": "6", "object_repr": "Pizza", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 27, "fields": {"action_time": "2023-07-20T17:49:17.094Z", "user": 1, "content_type": 7, "object_id": "7", "object_repr": "Sandwiches", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 28, "fields": {"action_time": "2023-07-20T17:49:19.789Z", "user": 1, "content_type": 7, "object_id": "8", "object_repr": "Burgers", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 29, "fields": {"action_time": "2023-07-20T17:49:25.906Z", "user": 1, "content_type": 7, "object_id": "9", "object_repr": "Seafood", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 30, "fields": {"action_time": "2023-07-20T17:49:28.682Z", "user": 1, "content_type": 7, "object_id": "10", "object_repr": "Steaks", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 31, "fields": {"action_time": "2023-07-20T17:49:31.891Z", "user": 1, "content_type": 7, "object_id": "11", "object_repr": "Sushi", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 32, "fields": {"action_time": "2023-07-20T17:49:44.720Z", "user": 1, "content_type": 7, "object_id": "12", "object_repr": "Vegan Dishes", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 33, "fields": {"action_time": "2023-07-20T17:49:51.306Z", "user": 1, "content_type": 7, "object_id": "13", "object_repr": "Noodles", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 34, "fields": {"action_time": "2023-07-20T17:50:13.362Z", "user": 1, "content_type": 7, "object_id": "14", "object_repr": "Desserts", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 35, "fields": {"action_time": "2023-07-20T17:50:39.404Z", "user": 1, "content_type": 7, "object_id": "15", "object_repr": "Breakfast", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 36, "fields": {"action_time": "2023-07-20T17:50:46.791Z", "user": 1, "content_type": 7, "object_id": "16", "object_repr": "Cocktails", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 37, "fields": {"action_time": "2023-07-20T17:50:59.204Z", "user": 1, "content_type": 7, "object_id": "16", "object_repr": "Cocktails", "action_flag": 3, "change_message": ""}}, {"model": "admin.logentry", "pk": 38, "fields": {"action_time": "2023-07-20T18:23:26.801Z", "user": 1, "content_type": 8, "object_id": "1", "object_repr": "Mozzarella Sticks", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 39, "fields": {"action_time": "2023-07-20T18:23:52.850Z", "user": 1, "content_type": 8, "object_id": "2", "object_repr": "Bruschetta", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 40, "fields": {"action_time": "2023-07-20T18:25:31.826Z", "user": 1, "content_type": 8, "object_id": "3", "object_repr": "Shrimp Cocktail", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 41, "fields": {"action_time": "2023-07-20T18:26:12.611Z", "user": 1, "content_type": 8, "object_id": "4", "object_repr": "Caesar Salad", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 42, "fields": {"action_time": "2023-07-20T18:26:35.614Z", "user": 1, "content_type": 8, "object_id": "5", "object_repr": "Greek Salad", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 43, "fields": {"action_time": "2023-07-20T18:26:54.608Z", "user": 1, "content_type": 8, "object_id": "6", "object_repr": "Caprese Salad", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 44, "fields": {"action_time": "2023-07-20T18:28:17.095Z", "user": 1, "content_type": 8, "object_id": "7", "object_repr": "Tomato Basil Soup", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 45, "fields": {"action_time": "2023-07-20T18:28:39.314Z", "user": 1, "content_type": 8, "object_id": "8", "object_repr": "Minestrone Soup", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 46, "fields": {"action_time": "2023-07-20T18:29:07.272Z", "user": 1, "content_type": 8, "object_id": "9", "object_repr": "Chicken Noodle Soup", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 47, "fields": {"action_time": "2023-07-20T18:29:30.766Z", "user": 1, "content_type": 8, "object_id": "10", "object_repr": "French Onion Soup", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 48, "fields": {"action_time": "2023-07-20T18:31:16.917Z", "user": 1, "content_type": 8, "object_id": "11", "object_repr": "Roast Duck", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 49, "fields": {"action_time": "2023-07-20T18:31:46.569Z", "user": 1, "content_type": 8, "object_id": "12", "object_repr": "Pan-Seared Salmon", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 50, "fields": {"action_time": "2023-07-20T18:32:16.756Z", "user": 1, "content_type": 8, "object_id": "13", "object_repr": "Grilled Chicken Breast", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 51, "fields": {"action_time": "2023-07-20T18:34:04.543Z", "user": 1, "content_type": 8, "object_id": "14", "object_repr": "Lasagna", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 52, "fields": {"action_time": "2023-07-20T18:34:40.988Z", "user": 1, "content_type": 8, "object_id": "15", "object_repr": "Spaghetti Carbonara", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 53, "fields": {"action_time": "2023-07-20T18:35:08.225Z", "user": 1, "content_type": 8, "object_id": "16", "object_repr": "Fettuccine Alfredo", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 54, "fields": {"action_time": "2023-07-20T18:36:25.887Z", "user": 1, "content_type": 8, "object_id": "17", "object_repr": "Margherita Pizza", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 55, "fields": {"action_time": "2023-07-20T18:36:51.155Z", "user": 1, "content_type": 8, "object_id": "18", "object_repr": "Pepperoni Pizza", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 56, "fields": {"action_time": "2023-07-20T18:37:10.855Z", "user": 1, "content_type": 8, "object_id": "19", "object_repr": "Hawaiian Pizza", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 57, "fields": {"action_time": "2023-07-20T18:38:02.957Z", "user": 1, "content_type": 8, "object_id": "20", "object_repr": "BBQ Chicken Pizza", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 58, "fields": {"action_time": "2023-07-20T18:41:38.236Z", "user": 1, "content_type": 8, "object_id": "21", "object_repr": "Grilled Cheese Sandwich", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 59, "fields": {"action_time": "2023-07-20T18:42:35.914Z", "user": 1, "content_type": 8, "object_id": "22", "object_repr": "Reuben Sandwich", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 60, "fields": {"action_time": "2023-07-20T18:42:57.761Z", "user": 1, "content_type": 8, "object_id": "23", "object_repr": "BLT Sandwich", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 61, "fields": {"action_time": "2023-07-20T18:43:29.850Z", "user": 1, "content_type": 8, "object_id": "24", "object_repr": "Classic Cheeseburger", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 62, "fields": {"action_time": "2023-07-20T18:43:50.553Z", "user": 1, "content_type": 8, "object_id": "25", "object_repr": "BBQ Bacon Burger", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 63, "fields": {"action_time": "2023-07-20T18:44:09.061Z", "user": 1, "content_type": 8, "object_id": "26", "object_repr": "Hawaiian Teriyaki Burger", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 64, "fields": {"action_time": "2023-07-20T18:44:46.923Z", "user": 1, "content_type": 8, "object_id": "27", "object_repr": "Bacon Mushroom Swiss Burger", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 65, "fields": {"action_time": "2023-07-20T18:45:57.273Z", "user": 1, "content_type": 8, "object_id": "28", "object_repr": "Lobster Tail", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 66, "fields": {"action_time": "2023-07-20T18:46:30.314Z", "user": 1, "content_type": 8, "object_id": "29", "object_repr": "Garlic Butter Shrimp", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 67, "fields": {"action_time": "2023-07-20T18:47:00.747Z", "user": 1, "content_type": 8, "object_id": "30", "object_repr": "Blackened Red Snapper", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 68, "fields": {"action_time": "2023-07-20T18:47:35.579Z", "user": 1, "content_type": 8, "object_id": "31", "object_repr": "Grilled Mahi Mahi", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 69, "fields": {"action_time": "2023-07-20T18:48:25.701Z", "user": 1, "content_type": 8, "object_id": "32", "object_repr": "Seared Scallops", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 70, "fields": {"action_time": "2023-07-20T18:49:52.788Z", "user": 1, "content_type": 8, "object_id": "33", "object_repr": "Filet Mignon", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 71, "fields": {"action_time": "2023-07-20T18:50:15.936Z", "user": 1, "content_type": 8, "object_id": "34", "object_repr": "Ribeye Steak", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 72, "fields": {"action_time": "2023-07-20T18:50:41.966Z", "user": 1, "content_type": 8, "object_id": "35", "object_repr": "New York Strip Steak", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 73, "fields": {"action_time": "2023-07-20T18:51:08.479Z", "user": 1, "content_type": 8, "object_id": "36", "object_repr": "T-Bone Steak", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 74, "fields": {"action_time": "2023-07-20T18:51:35.791Z", "user": 1, "content_type": 8, "object_id": "37", "object_repr": "California Roll", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 75, "fields": {"action_time": "2023-07-20T18:51:55.206Z", "user": 1, "content_type": 8, "object_id": "38", "object_repr": "Spicy Tuna Roll", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 76, "fields": {"action_time": "2023-07-20T18:52:19.963Z", "user": 1, "content_type": 8, "object_id": "39", "object_repr": "Shrimp Tempura Roll", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 77, "fields": {"action_time": "2023-07-20T18:52:42.623Z", "user": 1, "content_type": 8, "object_id": "40", "object_repr": "Rainbow Roll", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 78, "fields": {"action_time": "2023-07-20T18:53:34.527Z", "user": 1, "content_type": 8, "object_id": "41", "object_repr": "New York Cheesecake", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}, {"model": "admin.logentry", "pk": 79, "fields": {"action_time": "2023-07-20T18:53:55.569Z", "user": 1, "content_type": 8, "object_id": "42", "object_repr": "Tiramisu", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}]
+[
+{
+  "model": "restaurant.dishtype",
+  "pk": 1,
+  "fields": {
+    "name": "Main Courses"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 2,
+  "fields": {
+    "name": "Salads"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 3,
+  "fields": {
+    "name": "Appetizers"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 4,
+  "fields": {
+    "name": "Soups"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 5,
+  "fields": {
+    "name": "Pasta"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 6,
+  "fields": {
+    "name": "Pizza"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 7,
+  "fields": {
+    "name": "Sandwiches"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 8,
+  "fields": {
+    "name": "Burgers"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 9,
+  "fields": {
+    "name": "Seafood"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 10,
+  "fields": {
+    "name": "Steaks"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 11,
+  "fields": {
+    "name": "Sushi"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 12,
+  "fields": {
+    "name": "Vegan Dishes"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 13,
+  "fields": {
+    "name": "Noodles"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 14,
+  "fields": {
+    "name": "Desserts"
+  }
+},
+{
+  "model": "restaurant.dishtype",
+  "pk": 15,
+  "fields": {
+    "name": "Breakfast"
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 1,
+  "fields": {
+    "name": "Mozzarella Sticks",
+    "description": "Breaded and fried mozzarella sticks served with marinara sauce for dipping.",
+    "price": "9.99",
+    "dish_type": 3,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 2,
+  "fields": {
+    "name": "Bruschetta",
+    "description": "Toasted bread topped with fresh tomatoes, garlic, basil, and drizzled with balsamic glaze.",
+    "price": "8.99",
+    "dish_type": 3,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 3,
+  "fields": {
+    "name": "Shrimp Cocktail",
+    "description": "Chilled shrimp served with a tangy cocktail sauce, perfect for a refreshing appetizer.",
+    "price": "14.99",
+    "dish_type": 3,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 4,
+  "fields": {
+    "name": "Caesar Salad",
+    "description": "Crisp romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+    "price": "11.99",
+    "dish_type": 2,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 5,
+  "fields": {
+    "name": "Greek Salad",
+    "description": "Fresh cucumbers, tomatoes, olives, feta cheese, and Greek dressing.",
+    "price": "13.99",
+    "dish_type": 2,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 6,
+  "fields": {
+    "name": "Caprese Salad",
+    "description": "Sliced tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+    "price": "12.99",
+    "dish_type": 2,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 7,
+  "fields": {
+    "name": "Tomato Basil Soup",
+    "description": "Rich and creamy tomato soup with a hint of basil.",
+    "price": "6.99",
+    "dish_type": 4,
+    "cooks": [
+      37,
+      18
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 8,
+  "fields": {
+    "name": "Minestrone Soup",
+    "description": "Hearty vegetable soup with beans and pasta.",
+    "price": "8.99",
+    "dish_type": 4,
+    "cooks": [
+      37,
+      18
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 9,
+  "fields": {
+    "name": "Chicken Noodle Soup",
+    "description": "Classic chicken soup with tender noodles and vegetables.",
+    "price": "7.99",
+    "dish_type": 4,
+    "cooks": [
+      37,
+      18
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 10,
+  "fields": {
+    "name": "French Onion Soup",
+    "description": "A flavorful broth topped with toasted bread and melted cheese.",
+    "price": "8.99",
+    "dish_type": 4,
+    "cooks": [
+      37,
+      18
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 11,
+  "fields": {
+    "name": "Roast Duck",
+    "description": "Slow-roasted duck with a crispy skin and flavorful glaze.",
+    "price": "22.99",
+    "dish_type": 1,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 12,
+  "fields": {
+    "name": "Pan-Seared Salmon",
+    "description": "Salmon fillet seared to a crispy finish and served with lemon butter sauce.",
+    "price": "18.99",
+    "dish_type": 1,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 13,
+  "fields": {
+    "name": "Grilled Chicken Breast",
+    "description": "Juicy and tender grilled chicken served with a side of vegetables and rice.",
+    "price": "16.99",
+    "dish_type": 1,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 14,
+  "fields": {
+    "name": "Lasagna",
+    "description": "Layers of pasta, meat sauce, cheese, and béchamel sauce baked to perfection.",
+    "price": "16.99",
+    "dish_type": 5,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 15,
+  "fields": {
+    "name": "Spaghetti Carbonara",
+    "description": "Spaghetti tossed in a creamy egg and cheese sauce with pancetta or bacon.",
+    "price": "14.99",
+    "dish_type": 5,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 16,
+  "fields": {
+    "name": "Fettuccine Alfredo",
+    "description": "Fettuccine pasta in a rich and creamy Alfredo sauce.",
+    "price": "13.99",
+    "dish_type": 5,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 17,
+  "fields": {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+    "price": "12.99",
+    "dish_type": 6,
+    "cooks": [
+      21
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 18,
+  "fields": {
+    "name": "Pepperoni Pizza",
+    "description": "A timeless favorite with tomato sauce, mozzarella cheese, and pepperoni slices.",
+    "price": "13.99",
+    "dish_type": 6,
+    "cooks": [
+      21
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 19,
+  "fields": {
+    "name": "Hawaiian Pizza",
+    "description": "Pizza topped with tomato sauce, mozzarella cheese, ham, and pineapple.",
+    "price": "14.99",
+    "dish_type": 6,
+    "cooks": [
+      21
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 20,
+  "fields": {
+    "name": "BBQ Chicken Pizza",
+    "description": "Pizza topped with BBQ sauce, grilled chicken, red onions, and cilantro.",
+    "price": "16.99",
+    "dish_type": 6,
+    "cooks": [
+      21
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 21,
+  "fields": {
+    "name": "Grilled Cheese Sandwich",
+    "description": "Comfort food at its best with melted cheese between buttery slices of bread.",
+    "price": "7.99",
+    "dish_type": 7,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 22,
+  "fields": {
+    "name": "Reuben Sandwich",
+    "description": "Grilled sandwich with corned beef, sauerkraut, Swiss cheese, and Greek dressing.",
+    "price": "9.99",
+    "dish_type": 7,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 23,
+  "fields": {
+    "name": "BLT Sandwich",
+    "description": "A classic sandwich with bacon, lettuce, and tomato on toasted bread.",
+    "price": "8.99",
+    "dish_type": 7,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 24,
+  "fields": {
+    "name": "Classic Cheeseburger",
+    "description": "A juicy beef patty topped with cheese, lettuce, tomato, and pickles.",
+    "price": "10.99",
+    "dish_type": 8,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 25,
+  "fields": {
+    "name": "BBQ Bacon Burger",
+    "description": "Burger smothered in BBQ sauce, topped with bacon and onion rings.",
+    "price": "12.99",
+    "dish_type": 8,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 26,
+  "fields": {
+    "name": "Hawaiian Teriyaki Burger",
+    "description": "Burger with teriyaki sauce, grilled pineapple, lettuce, and mayo.",
+    "price": "12.49",
+    "dish_type": 8,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 27,
+  "fields": {
+    "name": "Bacon Mushroom Swiss Burger",
+    "description": "Beef patty topped with bacon, sautéed mushrooms, and Swiss cheese.",
+    "price": "11.99",
+    "dish_type": 8,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 28,
+  "fields": {
+    "name": "Lobster Tail",
+    "description": "Succulent lobster tail served with melted butter.",
+    "price": "29.99",
+    "dish_type": 9,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 29,
+  "fields": {
+    "name": "Garlic Butter Shrimp",
+    "description": "Shrimp sautéed in garlic butter, served with rice or pasta.",
+    "price": "17.99",
+    "dish_type": 9,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 30,
+  "fields": {
+    "name": "Blackened Red Snapper",
+    "description": "Red snapper seasoned with Cajun spices and seared until blackened.",
+    "price": "19.99",
+    "dish_type": 9,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 31,
+  "fields": {
+    "name": "Grilled Mahi Mahi",
+    "description": "Mahi Mahi fillet seasoned and grilled to bring out its natural flavors.",
+    "price": "18.99",
+    "dish_type": 9,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 32,
+  "fields": {
+    "name": "Seared Scallops",
+    "description": "Scallops seared to perfection, served with a lemon-butter sauce.",
+    "price": "23.99",
+    "dish_type": 9,
+    "cooks": [
+      20,
+      40,
+      5
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 33,
+  "fields": {
+    "name": "Filet Mignon",
+    "description": "Tender and flavorful filet mignon, often considered the king of steaks.",
+    "price": "34.99",
+    "dish_type": 10,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 34,
+  "fields": {
+    "name": "Ribeye Steak",
+    "description": "A well-marbled and juicy ribeye steak known for its rich flavor.",
+    "price": "29.99",
+    "dish_type": 10,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 35,
+  "fields": {
+    "name": "New York Strip Steak",
+    "description": "A thick and juicy strip steak with a bold beefy flavor.",
+    "price": "27.99",
+    "dish_type": 10,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 36,
+  "fields": {
+    "name": "T-Bone Steak",
+    "description": "A combination of tenderloin and New York strip, perfect for meat lovers.",
+    "price": "31.99",
+    "dish_type": 10,
+    "cooks": [
+      8,
+      26,
+      41,
+      23,
+      16
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 37,
+  "fields": {
+    "name": "California Roll",
+    "description": "Sushi roll with imitation crab, avocado, and cucumber.",
+    "price": "8.99",
+    "dish_type": 11,
+    "cooks": [
+      12
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 38,
+  "fields": {
+    "name": "Spicy Tuna Roll",
+    "description": "Sushi roll with spicy tuna and cucumber.",
+    "price": "9.99",
+    "dish_type": 11,
+    "cooks": [
+      12
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 39,
+  "fields": {
+    "name": "Shrimp Tempura Roll",
+    "description": "Sushi roll with tempura shrimp, avocado, and cucumber.",
+    "price": "10.99",
+    "dish_type": 11,
+    "cooks": [
+      12
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 40,
+  "fields": {
+    "name": "Rainbow Roll",
+    "description": "Colorful sushi roll with various fish and avocado on top.",
+    "price": "12.99",
+    "dish_type": 11,
+    "cooks": [
+      12
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 41,
+  "fields": {
+    "name": "New York Cheesecake",
+    "description": "Creamy cheesecake with a graham cracker crust, topped with fruit or sauce.",
+    "price": "6.49",
+    "dish_type": 14,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 42,
+  "fields": {
+    "name": "Tiramisu",
+    "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+    "price": "6.99",
+    "dish_type": 14,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 43,
+  "fields": {
+    "name": "Crème Brûlée",
+    "description": "Custard topped with a caramelized sugar crust for a delightful contrast of textures.",
+    "price": "8.99",
+    "dish_type": 14,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 44,
+  "fields": {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center, served with ice cream.",
+    "price": "7.99",
+    "dish_type": 14,
+    "cooks": [
+      3,
+      7,
+      13
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 45,
+  "fields": {
+    "name": "Pad Thai Noodles",
+    "description": "Stir-fried rice noodles with eggs, tofu, peanuts, and tamarind sauce.",
+    "price": "11.99",
+    "dish_type": 13,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 46,
+  "fields": {
+    "name": "Beef Chow Mein",
+    "description": "Stir-fried noodles with tender beef, vegetables, and savory sauce.",
+    "price": "10.99",
+    "dish_type": 13,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 47,
+  "fields": {
+    "name": "Udon Noodle Soup",
+    "description": "Thick and chewy udon noodles served in a flavorful broth.",
+    "price": "10.49",
+    "dish_type": 13,
+    "cooks": [
+      2,
+      34,
+      30
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 48,
+  "fields": {
+    "name": "Vegan Buddha Bowl",
+    "description": "Wholesome bowl with a mix of grains, vegetables, and plant-based protein.",
+    "price": "11.99",
+    "dish_type": 12,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 49,
+  "fields": {
+    "name": "Vegan Pad Thai",
+    "description": "Classic Thai noodle dish made with tofu and a flavorful sauce.",
+    "price": "10.99",
+    "dish_type": 12,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 50,
+  "fields": {
+    "name": "Vegan Chickpea Curry",
+    "description": "Hearty curry made with chickpeas, vegetables, and aromatic spices.",
+    "price": "12.99",
+    "dish_type": 12,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 51,
+  "fields": {
+    "name": "Lentil Shepherd's Pie",
+    "description": "Vegan version of the classic shepherd's pie with lentils and mashed potatoes.",
+    "price": "9.99",
+    "dish_type": 12,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 52,
+  "fields": {
+    "name": "Eggs Benedict",
+    "description": "Poached eggs served on English muffins with Canadian bacon and hollandaise sauce.",
+    "price": "9.99",
+    "dish_type": 15,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 53,
+  "fields": {
+    "name": "Pancakes with Maple Syrup",
+    "description": "Fluffy pancakes served with sweet maple syrup.",
+    "price": "6.99",
+    "dish_type": 14,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 54,
+  "fields": {
+    "name": "French Toast",
+    "description": "Slices of bread soaked in a mixture of eggs and milk, then cooked until golden.",
+    "price": "8.49",
+    "dish_type": 15,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.dish",
+  "pk": 55,
+  "fields": {
+    "name": "Belgian Waffles",
+    "description": "Thick and crispy waffles served with a variety of toppings.",
+    "price": "7.99",
+    "dish_type": 15,
+    "cooks": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$b7ScoaDwRKW1144$ew0r3PrLdHy+gYynuQMXrZDyC5uBOPng60oimq3vmKs=",
+    "last_login": "2023-07-26T18:07:52.698Z",
+    "is_superuser": true,
+    "username": "Illia-admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_active": true,
+    "date_joined": "2023-09-20T12:47:51.661Z",
+    "years_of_experience": 0,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$b7ScoaDwRKW1144$i5YSy8Ft7id8QHrrRitoRtLm3BSz76aQgtxA4zEBod4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Illia",
+    "first_name": "Jacob",
+    "last_name": "Brown",
+    "email": "steventaylor@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:24Z",
+    "years_of_experience": 3,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$b7ScoaDwRKW1144$BABp8VXaKSlK/8hzhoYuiPTKxfHIdmXsVPWfqdMk5Xs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "cook",
+    "first_name": "Alexis",
+    "last_name": "Barrera",
+    "email": "fturner@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:24Z",
+    "years_of_experience": 5,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$RWfYk2mKgEELQu146Ku8pn$pD7Cv1177DUMGQ4E2vgDTyP+/m9Bi43oxpHiHoFBnmY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "carrie.sloan",
+    "first_name": "Carrie",
+    "last_name": "Sloan",
+    "email": "chamberszachary@example.net",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:24Z",
+    "years_of_experience": 0,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$DR68EPFEVgfB2TRWw0KE9l$yaanUjysXAqOSJGZf6Gxlscuh+If+aaBYy5kXXAHoSY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "kathleen.smith",
+    "first_name": "Kathleen",
+    "last_name": "Smith",
+    "email": "tinastewart@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:25Z",
+    "years_of_experience": 3,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$XUvd6VP2xIaBlgINZRbifE$G3chU83h64RUCcGHGg8/Nt/id/EH+E+QtzNM3cdm208=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "amber.black",
+    "first_name": "Amber",
+    "last_name": "Black",
+    "email": "carolyn45@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:25Z",
+    "years_of_experience": 2,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 8,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$fOiYGIZggqIXuRRRfIHoUt$D/wUKUnMA6PIMwzFZ8+7bAoEH9DCP+46a5PEj/dmsxM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "blake.hernandez",
+    "first_name": "Blake",
+    "last_name": "Hernandez",
+    "email": "patrick32@example.net",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:25Z",
+    "years_of_experience": 9,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 12,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$Um2REbsvDORzKPcyfZs8Q1$rC6CQIUfode/AlKSCwglwpFSWzfCsx0V6Du3OoUdEMs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jorge.bonilla",
+    "first_name": "Jorge",
+    "last_name": "Bonilla",
+    "email": "amyrichardson@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:26Z",
+    "years_of_experience": 13,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 13,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$danzNGCEP3NKxWKp014ApL$WpF3nQ+J0NRotc0XuglNpbNvT7jq5kk56UV1z+kv6EY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "andrea.jackson",
+    "first_name": "Andrea",
+    "last_name": "Jackson",
+    "email": "benjaminhenderson@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:26Z",
+    "years_of_experience": 6,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 16,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$9uVNrJKDwoeMuFS0a8oR8m$o3fcpNG5Nyhx5K+T3NCirdnNw3HDYb48HBiPZQJLnIk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "brittany.anderson",
+    "first_name": "Brittany",
+    "last_name": "Anderson",
+    "email": "markcross@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:26Z",
+    "years_of_experience": 7,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 18,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$OSxtsYgF4ecGknQ1okYNIY$C4Fnw4AR797Y1UjRvNWG5Wrf3+b7XAAFav7H3xFrVec=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "elizabeth.brown",
+    "first_name": "Elizabeth",
+    "last_name": "Brown",
+    "email": "vazquezkenneth@example.net",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:27Z",
+    "years_of_experience": 15,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 20,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$8JhLHzSIPE0vQ3lqrJvNSp$af/+ooLvC9spugVbANfmp17idoeutFHdHZUsmFVY7uk=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "caitlyn.melton",
+    "first_name": "Caitlyn",
+    "last_name": "Melton",
+    "email": "vmoss@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:27Z",
+    "years_of_experience": 5,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 21,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$9mYJsmyGvCNFgpVf7yr76W$jTjvUW7AcyPovlFuXp5h8Dhr5vWcu9ady9W/I/+WpQs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "christopher.murray",
+    "first_name": "Christopher",
+    "last_name": "Murray",
+    "email": "bburton@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:27Z",
+    "years_of_experience": 2,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 22,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$xkBithNOkzlddLQCtEbusj$68Z3UoUFAtNxmevePrHhkB/UHMWbWE5FFROxjSzlcKA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "kayla.johnson",
+    "first_name": "Kayla",
+    "last_name": "Johnson",
+    "email": "curtiskhan@example.net",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:27Z",
+    "years_of_experience": 9,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 23,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$SBlTrkFRZgdmSEd0MLDP5k$gkmcQnZ1FHtC9bXxYElErAFOvDrTyquzWbIZD2GNDu8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "brian.perez",
+    "first_name": "Brian",
+    "last_name": "Perez",
+    "email": "deannarobinson@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:27Z",
+    "years_of_experience": 3,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 26,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$3pyg1jsjWUgvVOs7R9kLzC$22gQtnH60Jh4rDp8jvVSHc8/wkLpdyFpgVwuRhkE0p4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "brandon.jones",
+    "first_name": "Brandon",
+    "last_name": "Jones",
+    "email": "gtyler@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:28Z",
+    "years_of_experience": 19,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 30,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$BFDVsRkyuewUhAJyuPFD1F$HOk5jHh2kzAahPY85pbAJyje9i4ErxoZk0ym/KKGgqc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jennifer.hardy",
+    "first_name": "Jennifer",
+    "last_name": "Hardy",
+    "email": "christopher34@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:28Z",
+    "years_of_experience": 14,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 34,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$B5prxTfQSmhr72GXP8nPGa$hk/H5nKPTZ75aH5cQ2x9iEN6wimAoAejOx42yrUjY8U=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "james.freeman",
+    "first_name": "James",
+    "last_name": "Freeman",
+    "email": "priscillawalker@example.net",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:29Z",
+    "years_of_experience": 12,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 37,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$vSqO736g1Iz7ogJuqpEKjU$kc9VXoQJGWveqfb9qIjocNRhWD6UoaNe/cJ+aRRD1Tc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "eduardo.baker",
+    "first_name": "Eduardo",
+    "last_name": "Baker",
+    "email": "qflores@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:29Z",
+    "years_of_experience": 1,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 40,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$hqON2SYIZ4yqMW2rBlPj37$ffiOtNKr81sYZZ/ykLkZl2Djr8KwBQkaNvRLFKhGQpY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "cameron.miller",
+    "first_name": "Cameron",
+    "last_name": "Miller",
+    "email": "bishopkevin@example.com",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:30Z",
+    "years_of_experience": 16,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 41,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$QuQsGNWyV26kT3qV7D8V3O$yawuRK4mAHtzRHF1MGIHJXb3VpnvN4SI1CoQsx4ZbvY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "brian.dean",
+    "first_name": "Brian",
+    "last_name": "Dean",
+    "email": "brendaolsen@example.org",
+    "is_active": true,
+    "date_joined": "2023-07-20T17:42:30Z",
+    "years_of_experience": 17,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurant.cook",
+  "pk": 43,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$Nnw5CnM1TA5kZZmzK35L1n$qEbgo7mvp47ODK1WgZVKx1/ssj2vsCj4MhOjxqA3EiM=",
+    "last_login": "2023-07-25T15:37:41.151Z",
+    "is_superuser": false,
+    "username": "new_cook",
+    "first_name": "Jonny",
+    "last_name": "Bonny",
+    "email": "",
+    "is_active": true,
+    "date_joined": "2023-07-22T16:59:27Z",
+    "years_of_experience": 3,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
