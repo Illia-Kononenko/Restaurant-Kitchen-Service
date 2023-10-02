@@ -31,7 +31,7 @@ html {
     max-height: 60px;
 }
 .bg-dark {
-    background-color: #212529!important;
+    background-color: #07f625 !important;
 }
 .navbar-expand-lg {
     flex-wrap: nowrap;
@@ -59,4 +59,10 @@ html {
     width: 30px;
     height: 30px;
     object-fit: contain;
+}
+
+#1563{
+    color: white;
+    background: #007bff;
+    !important;
 }
