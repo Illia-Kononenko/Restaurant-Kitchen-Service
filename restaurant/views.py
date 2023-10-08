@@ -1,22 +1,22 @@
 from django.contrib.auth import get_user_model
+from django.shortcuts import render
 from django.urls import reverse_lazy
 from django.views import View, generic
-from django.shortcuts import render
 
 from restaurant.forms import (
     CookCreationForm,
     CookSearchForm,
-    DishSearchForm,
-    DishTypeSearchForm,
     DishForm,
-    DishTypeFilterForm
+    DishSearchForm,
+    DishTypeFilterForm,
+    DishTypeSearchForm,
 )
 from restaurant.mixins import (
+    CookDetailIfIsStaffMixin,
     IsStaffMixin,
     IsSuperUserMixin,
-    CookDetailIfIsStaffMixin
 )
-from restaurant.models import Dish, DishType, Cook
+from restaurant.models import Cook, Dish, DishType
 
 
 class IndexView(View):
@@ -46,14 +46,11 @@ class CookListView(IsStaffMixin, generic.ListView):
     def get_context_data(self, *, object_list=None, **kwargs):
         context = super(CookListView, self).get_context_data(**kwargs)
         username = self.request.GET.get("username", "")
-        context["search_form"] = CookSearchForm(
-            initial={"username": username}
-        )
+        context["search_form"] = CookSearchForm(initial={"username": username})
 
         return context
 
     def get_queryset(self):
-
         if self.request.user.is_superuser:
             queryset = get_user_model().objects.all()
         else:
@@ -97,9 +94,7 @@ class DishListView(generic.ListView):
         context = super(DishListView, self).get_context_data(**kwargs)
         name = self.request.GET.get("name", "")
         dish_type_ids = self.request.GET.getlist("dish_type", "")
-        context["search_form"] = DishSearchForm(
-            initial={"name": name}
-        )
+        context["search_form"] = DishSearchForm(initial={"name": name})
 
         context["dish_type_filter_form"] = DishTypeFilterForm(
             initial={"dish_type": dish_type_ids}
@@ -151,9 +146,7 @@ class DishTypeListView(generic.ListView):
     def get_context_data(self, *, object_list=None, **kwargs):
         context = super(DishTypeListView, self).get_context_data(**kwargs)
         name = self.request.GET.get("name", "")
-        context["search_form"] = DishTypeSearchForm(
-            initial={"name": name}
-        )
+        context["search_form"] = DishTypeSearchForm(initial={"name": name})
 
         return context
 
@@ -162,9 +155,7 @@ class DishTypeListView(generic.ListView):
         form = DishTypeSearchForm(self.request.GET)
 
         if form.is_valid():
-            return queryset.filter(
-                name__icontains=form.cleaned_data["name"]
-            )
+            return queryset.filter(name__icontains=form.cleaned_data["name"])
 
         return queryset
 
@@ -196,8 +187,8 @@ class DishTypeDeleteView(IsSuperUserMixin, generic.DeleteView):
 
 
 def page_not_found(request, exception):
-    return render(request, 'errors/404.html', status=404)
+    return render(request, "errors/404.html", status=404)
 
 
 def forbidden(request, exception):
-    return render(request, 'errors/403.html', status=403)
+    return render(request, "errors/403.html", status=403)

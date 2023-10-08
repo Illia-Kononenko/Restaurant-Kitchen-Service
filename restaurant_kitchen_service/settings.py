@@ -1,11 +1,12 @@
 import os
 from pathlib import Path
+
 import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = os.environ["SECRET_KEY"]
-DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
+DEBUG = os.environ.get("DJANGO_DEBUG", "") != "False"
 
 ALLOWED_HOSTS = ["127.0.0.1", "restaurant122.onrender.com"]
 
@@ -25,7 +26,7 @@ INSTALLED_APPS = [
     "crispy_bootstrap4",
     "bootstrap4",
     "restaurant",
-    'django_extensions'
+    "django_extensions",
 ]
 
 MIDDLEWARE = [

@@ -7,6 +7,7 @@ Django project for managing cooks, dishes and dish types in a restaurant
 [Restaurant service project deployed to Render](https://restaurant122.onrender.com/)
 
 ## Installing / Getting started
+
 Python3 must be already installed
 
 ````shell
@@ -23,6 +24,7 @@ python manage.py runserver
 ````
 
 ## Features
+
 There are 3 levels of access: for staff, superuser and unauthorized.
 
 Chef cook(superuser) can create/delete(hire/fire) another cooks. This super can manage dishes and dish types.
@@ -30,20 +32,27 @@ Chef cook(superuser) can create/delete(hire/fire) another cooks. This super can 
 Cook(staff) can enter just his own profile, see all another cooks in list and update dishes.
 
 Unauthorized user can just see dishes and dish types with detailed information without editing.
+
 ## Licensing
+
 "The code in this project is licensed under MIT license."
 
 ## Default users
+
 superuser
+
 ````
 username: Illia-admin
 password: Illia2109
 ````
+
 staff
+
 ````
 username: cook
 password: 12345
 ````
+
 ## Demo
 
 ![Website Interface](demo.png)

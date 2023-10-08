@@ -3,7 +3,7 @@ from django.contrib.auth import get_user_model
 from django.contrib.auth.forms import UserCreationForm
 from django.core.exceptions import ValidationError
 
-from restaurant.models import Dish, Cook, DishType
+from restaurant.models import Cook, Dish, DishType
 
 MAX_EXPERIENCE = 60
 
@@ -78,5 +78,5 @@ class DishTypeFilterForm(forms.Form):
         label="By dish type",
         widget=forms.CheckboxSelectMultiple(
             attrs={"class": "form-check-input"}
-        )
+        ),
     )

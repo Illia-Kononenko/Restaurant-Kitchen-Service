@@ -30,7 +30,7 @@
       {% for dish_type in dish_type_list %}
         <tr>
           <td>
-              {{ dish_type.id }}
+            {{ dish_type.id }}
           </td>
           <td>
             <a href="{% url 'restaurant:dish-type-detail' pk=dish_type.id %}" class="link-style">
@@ -57,6 +57,6 @@
     </table>
 
   {% else %}
-      <p>There are no dish types in the service.</p>
+    <p>There are no dish types in the service.</p>
   {% endif %}
 {% endblock %}
