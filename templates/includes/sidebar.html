@@ -1,0 +1,19 @@
+{% load crispy_forms_filters %}
+{% block filter %}
+  <form method="get">
+    <div class="select2-dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="filterDropdown" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+        Filter Options
+      </button>
+      <div class="dropdown-menu background-box" aria-labelledby="filterDropdown">
+        <form method="get" class="dropdown-item">
+          <div style="margin-left: 20px;">
+            {{ dish_type_filter_form|crispy }}
+          </div>
+          <button type="submit" class="btn btn-primary" style="margin-left: 20px">Apply Filter</button>
+        </form>
+      </div>
+    </div>
+  </form>
+{% endblock %}
